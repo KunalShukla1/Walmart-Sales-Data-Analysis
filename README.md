@@ -33,7 +33,6 @@ The dataset was downloaded from **Kaggle** and cleaned using SQL before performi
 ## 🛠 Tools & Technologies
 
 - **MySQL**: Data cleaning, transformation, and analysis
-- **SQL Queries**: For EDA and feature engineering
 - **Kaggle Dataset**: Data source
 
 ---
@@ -41,7 +40,7 @@ The dataset was downloaded from **Kaggle** and cleaned using SQL before performi
 ## 🔍 Steps Performed
 
 ### 1️⃣ Data Cleaning
-- Removed inconsistencies and duplicates
+- Removed inconsistencies, duplicates and NULL values
 - Formatted dates and time
 - Ensured correct data types for each column
 
