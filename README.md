@@ -74,7 +74,3 @@ Performed SQL queries to answer:
 - **Customer Type Spending More**: Members
 - **Time with Most Ratings**: Afternoon
 
----
-
-## 📁 Project Structure
-
