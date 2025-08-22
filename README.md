@@ -1,7 +1,9 @@
 # 🛒 Walmart Sales Data Analysis (MySQL Project)
+
 <p align="center">
-  <img src="images/walmart-logo.png" alt="Walmart Logo" width="300">
+  <img src="https://github.com/<YourUserName>/<RepoName>/blob/main/images/walmart-logo.png?raw=true" alt="Walmart Logo" width="300">
 </p>
+
 
 ## 📌 Project Overview
 This repository contains **Walmart Sales Data** extracted from **Kaggle** and cleaned using **MySQL**.  
