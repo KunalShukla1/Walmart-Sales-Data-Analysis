@@ -1,7 +1,7 @@
 # 🛒 Walmart Sales Data Analysis (MySQL Project)
-
-<img src="https://1000logos.net/wp-content/uploads/2017/05/Walmart-logo.png" alt="Walmart Logo" width="250"/>
-
+<p align="center">
+  <img src="images/walmart-logo.png" alt="Walmart Logo" width="300">
+</p>
 
 ## 📌 Project Overview
 This repository contains **Walmart Sales Data** extracted from **Kaggle** and cleaned using **MySQL**.  
