@@ -1,7 +1,7 @@
 # 🛒 Walmart Sales Data Analysis (MySQL Project)
 
 <p align="center">
-  <img src="https://github.com/KunalShukla1/Walmart-Sales-Data-Analysis/blob/main/Walmart.png?raw=true" alt="Walmart Logo" width="300">
+  <img src="https://github.com/KunalShukla1/Walmart-Sales-Data-Analysis/blob/main/Walmart.png?raw=true" alt="Walmart Logo" hight = "200" width="300">
 </p>
 
 
